@@ -1,7 +1,6 @@
 # mint-backgrounds-nadia
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-nadia?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-nadia-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-nadia-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-nadia)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-nadia`. Instead of building the
